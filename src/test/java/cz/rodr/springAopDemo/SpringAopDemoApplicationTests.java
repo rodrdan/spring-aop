@@ -1,4 +1,4 @@
-package cz.rodr.SpringAopDemo;
+package cz.rodr.springAopDemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
